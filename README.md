@@ -72,7 +72,7 @@ Currently based in **Ogbomoso, Nigeria**, I’m focused on developing my skills 
 
 ---
 
-## 🚧 Featured Projects *(Add yours later)*
+## 🚧 Featured Projects 
 
 - 🔍 [**Sales Dashboard - Power BI**](#)  
   An interactive Power BI report analyzing company-wide sales performance.
